@@ -65,7 +65,8 @@ Whether you're working on your first data project or exploring randon datasets, 
 
 ## ⚖️ License
 
-Released under the [MIT License](LICENSE) — free to learn, fork, and build upon.
+This project is licensed under the [MIT License](LICENSE)
+ — meaning you’re free to use, modify, and share it for personal or commercial purposes, as long as proper credit is given to Otuno David.
 
 ---
 
