@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Otuno/Python-data-cleaning-guide?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Otuno/Python-data-cleaning-guide?style=for-the-badge">
+</p>
+
 # 🧠 Python Data Cleaning & Visualization Guide
 ### *An open, student-built guide for learning real-world data cleaning and visualization with Python.*
 
@@ -18,9 +26,9 @@
 ## 💡 About This Project
 
 This is a **hands-on learning guide** created by a student — for students.  
-It focuses on helping beginners and interns gain *real, practical experience* with Python for data cleaning and visualization.  
+It focuses on helping beginners and those aiming at data roles gain *real, practical experience* with Python for data cleaning and visualization.  
 
-Whether you're working on your first data project or exploring public health data, this guide walks you step-by-step through the essential tools and concepts.
+Whether you're working on your first data project or exploring randon datasets, this guide walks you step-by-step through the essential tools and concepts.
 
 ---
 
@@ -46,7 +54,7 @@ Whether you're working on your first data project or exploring public health dat
 
 ## ✨ Author
 
-**Otuno David (AUTHENTIC)**  
+**Otuno David**  
 🎓 Bingham University | Computer Science  
 📧 [davidotuno146@gmail.com](mailto:davidotuno146@gmail.com)  
 🌐 [GitHub Profile](https://github.com/Otuno)
