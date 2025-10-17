@@ -70,15 +70,35 @@ This project is licensed under the [MIT License](LICENSE)
 
 ---
 
-### 🌱 How to Contribute
+<details>
+  <summary>Contributions are welcome! 🎉 </summary>
+
+  ### 🌱 How to Contribute
 Want to help improve the guide?  
 You can:
 - Suggest datasets to explore  
 - Fix typos or add mini exercises  
 - Share your cleaned dataset examples  
 
-Just fork the repo and open a pull request!
+If you’d like to improve the **Python Data Cleaning Guide** — by fixing typos, adding new examples, or writing extra chapters — here’s how you can help:
 
+1. **Fork** the repository  
+2. **Create a new branch** for your feature or fix  
+   ```bash
+   git checkout -b feature/new-topic
+3. **Commit** your changes
+   ```bash
+   git commit -m "Add explanation for handling missing values"
+
+4. **Push** to your branch
+   ```
+   git push origin feature/new-topic
+5. Open a **Pull Request** on GitHub
+→ briefly explain what you changed and why
+
+Every contribution — big or small — helps more students and beginners learn data cleaning the right way.
+
+<details/>
 ---
 
 🟢 **Start here:**  
